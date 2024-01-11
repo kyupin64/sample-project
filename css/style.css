@@ -34,3 +34,11 @@ p {
     font-weight: bold;
     font-style: italic;
 }
+#img-bg {
+    display: inline-block;
+    margin: 40px 0;
+    padding: 20px 15px;
+    background-color: rgb(207, 198, 198);
+    border-radius: 40%;
+    box-shadow: -10px 10px 5px rgb(138, 0, 16), 5px -10px 10px rgb(49, 34, 36);
+}
