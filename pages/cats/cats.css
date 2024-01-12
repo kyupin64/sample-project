@@ -48,7 +48,7 @@ p {
 }
 #gallery {
     display: inline-block;
-    margin: 40px;
+    margin: 0 40px;
 }
 #gallery img {    
     margin: 20px;
