@@ -11,12 +11,12 @@ body {
     display: flex;
     justify-content: center;
     padding: 10px;
-    background-color: rgb(231, 133, 140);
+    background-color: rgb(138, 0, 16);
 }
 .nav-item {
     margin: 0 10px;
     font-size: 1.6em;
-    color: rgb(49, 34, 36);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 .nav-item:hover {
@@ -38,8 +38,7 @@ h2 {
     display: inline-block;
     margin: 80px 40px;
     padding: 20px 15px;
-    background-color: rgb(207, 198, 198);
-    border-radius: 40%;
+    border-radius: 40% / 80%;
     box-shadow: -10px 10px 5px rgb(138, 0, 16), 5px -10px 10px rgb(49, 34, 36);
 }
 #img-bg:hover {
