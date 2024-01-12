@@ -35,7 +35,7 @@ h2 {
     font-weight: bold;
 }
 h3 {
-    margin: 10px 0;
+    margin: 20px 0;
     font-size: 1.7em;
     color: rgb(49, 34, 36);
     font-weight: bold;
@@ -45,6 +45,10 @@ p {
     color: rgb(49, 34, 36);
     font-weight: bold;
     font-style: italic;
+}
+ul {
+    margin: 10px 30px;
+    text-align: left;
 }
 #img-bg {
     display: inline-block;
@@ -56,4 +60,12 @@ p {
 }
 #img-bg:hover {
     transform: scale(1.2);
+}
+#about-section {
+    display: inline-block;
+    margin: 80px 40px;
+    padding: 20px 15px;
+    background-color: rgb(207, 198, 198);
+    border-radius: 10%;
+    box-shadow: -10px 10px 5px rgb(138, 0, 16), 5px -10px 10px rgb(49, 34, 36);
 }
