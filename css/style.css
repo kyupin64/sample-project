@@ -15,7 +15,7 @@ body {
 }
 .nav-item {
     margin: 0 10px;
-    font-size: 1.3em;
+    font-size: 1.6em;
     color: rgb(49, 34, 36);
     text-decoration: none;
 }
@@ -24,12 +24,12 @@ body {
 }
 h1 {
     margin: 20px 0;
-    font-size: 3em;
+    font-size: 4em;
     color: rgb(138, 0, 16);
     font-weight: bold;
 }
-p {
-    font-size: 1.7em;
+h2 {
+    font-size: 2em;
     color: rgb(49, 34, 36);
     font-weight: bold;
     font-style: italic;
