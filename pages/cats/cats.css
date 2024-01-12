@@ -48,12 +48,12 @@ p {
 }
 #gallery {
     display: inline-block;
-    margin: 0 40px;
+    margin: 0 2%;
 }
 #gallery img {    
-    margin: 20px;
+    margin: 1%;
     border-radius: 5%;
-    box-shadow: -10px 10px 5px rgb(255, 154, 178), 5px -10px 10px rgb(49, 34, 36);
+    box-shadow: -.3em .3em .15em rgb(255, 154, 178), .15em -.3em .3em rgb(49, 34, 36);
     max-width: 30%;
     max-height: 30%;
 }
