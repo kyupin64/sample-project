@@ -30,19 +30,19 @@ h1 {
 }
 h2 {
     margin: 10px 0;
-    font-size: 3em;
+    font-size: 2em;
     color: rgb(49, 34, 36);
     font-weight: bold;
+    font-style: italic;
 }
 h3 {
     margin: 10px 0;
-    font-size: 2em;
+    font-size: 3em;
     color: rgb(49, 34, 36);
     font-weight: bold;
 }
 p {
     margin: 0 30px;
-    font-size: 1em;
     color: rgb(49, 34, 36);
     font-weight: bold;
 }
